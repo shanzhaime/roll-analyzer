@@ -49,6 +49,6 @@
     "arrowParens": "always"
   },
   "devDependencies": {
-    "flow-bin": "^0.106.2"
+    "flow-bin": "^0.106.3"
   }
 }
