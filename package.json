@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "husky": "^4.2.3",
-    "lint-staged": "^10.1.0",
+    "lint-staged": "^10.1.1",
     "prettier": "^2.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
